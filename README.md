@@ -50,9 +50,9 @@ To run this project, follow these steps:
 
   Refer to the notebook for pre-processing steps
    
-3. Train the model:
+3. Train the model:\
    Refer to the notebook for model train, test and validation criteria
-4. Evaluate the model:
+4. Evaluate the model:\
    Refer to the notebook for model evaluation criteria
 
 ## Contributing
